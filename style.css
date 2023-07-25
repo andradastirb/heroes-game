@@ -77,15 +77,15 @@ body {
 }
 
 .dragon {
-  background-image: url("/assets/dragon.jpg");
+  background-image: url("assets/dragon.jpg");
 }
 
 .sprite {
-  background-image: url("/assets/sprite.jpg");
+  background-image: url("assets/sprite.jpg");
 }
 
 .dwarf {
-  background-image: url("/assets/dwarf.jpg");
+  background-image: url("assets/dwarf.jpg");
 }
 
 .show-winner {
